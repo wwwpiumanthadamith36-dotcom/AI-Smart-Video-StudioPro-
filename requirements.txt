@@ -3,6 +3,6 @@ google-generativeai
 yt-dlp
 openai-whisper
 gTTS
-moviepy
+moviepy==1.0.3
 Pillow
 imageio-ffmpeg
